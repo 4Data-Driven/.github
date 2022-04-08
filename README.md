@@ -16,6 +16,17 @@ Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligenc
 <img align="center" alt="Data Science" height="50" src="./src/DataScience.png">
 </div>
 
+## **Clientes**
+<div>
+<img align="center" height="50" src="./src/logo-99.png">
+<img align="center" height="50" src="./src/logo-99-food.png">
+<img align="center" height="50" src="./src/logo-dominos.png">
+<img align="center" height="50" src="./src/logo-pepery.png">
+<img align="center" height="50" src="./src/logo-sunset.png">
+<img align="center" height="50" src="./src/logo-gut.png">
+<img align="center" height="50" src="./src/logo-tracy.png">
+</div>
+
 ## **Tecnologias**
 
 Trabalhamos com tecnologias de fornecedores líderes de mercado:
