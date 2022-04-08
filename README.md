@@ -27,6 +27,8 @@ Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligenc
 <img align="center" height="50" src="./src/logo-tracy.png">
 </div>
 
+
+
 ## **Tecnologias**
 
 Trabalhamos com tecnologias de fornecedores líderes de mercado:
