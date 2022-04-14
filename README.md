@@ -1,4 +1,4 @@
-# 4DataDriven
+# 4DataDriven <img align="right" alt="Business Intelligence" height="70" src="./src/4dd_logotipo.png">
 
 Soluções customizadas de **_Bi_**, **_Data Analytics_** e **_Data Science_** para Marketing e Vendas
 
