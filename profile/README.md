@@ -1,4 +1,4 @@
-# 4DataDriven <img align="right" alt="Business Intelligence" height="70" src="../src/4dd_logotipo.png">
+# 4DataDriven <img align="right" alt="Business Intelligence" height="70" src="./src/4dd_logotipo.png">
 
 Soluções customizadas de **_Bi_**, **_Data Analytics_** e **_Data Science_** para Marketing e Vendas
 
@@ -18,13 +18,13 @@ Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligenc
 
 ## **Clientes**
 <div>
-<img align="center" height="50" src="../src/logo-99.png">
-<img align="center" height="50" src="../src/logo-99-food.png">
-<img align="center" height="50" src="../src/logo-dominos.png">
-<img align="center" height="50" src="../src/logo-pepery.png">
-<img align="center" height="50" src="../src/logo-sunset.png">
-<img align="center" height="50" src="../src/logo-gut.png">
-<img align="center" height="50" src="../src/logo-tracy.png">
+<img align="center" height="50" src="./src/logo-99.png">
+<img align="center" height="50" src="./src/logo-99-food.png">
+<img align="center" height="50" src="./src/logo-dominos.png">
+<img align="center" height="50" src="./src/logo-pepery.png">
+<img align="center" height="50" src="./src/logo-sunset.png">
+<img align="center" height="50" src="./src/logo-gut.png">
+<img align="center" height="50" src="./src/logo-tracy.png">
 </div>
 
 
