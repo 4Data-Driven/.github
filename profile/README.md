@@ -1,4 +1,4 @@
-# 4DataDriven <img align="right" alt="Business Intelligence" height="70" src="./src/4dd_logotipo.png">
+# 4DataDriven <img align="right" alt="Business Intelligence" height="70" src="../src/4dd_logotipo.png">
 
 Soluções customizadas de **_Bi_**, **_Data Analytics_** e **_Data Science_** para Marketing e Vendas
 
@@ -18,13 +18,13 @@ Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligenc
 
 ## **Clientes**
 <div>
-<img align="center" height="50" src="./src/logo-99.png">
-<img align="center" height="50" src="./src/logo-99-food.png">
-<img align="center" height="50" src="./src/logo-dominos.png">
-<img align="center" height="50" src="./src/logo-pepery.png">
-<img align="center" height="50" src="./src/logo-sunset.png">
-<img align="center" height="50" src="./src/logo-gut.png">
-<img align="center" height="50" src="./src/logo-tracy.png">
+<img align="center" height="50" src="../src/logo-99.png">
+<img align="center" height="50" src="../src/logo-99-food.png">
+<img align="center" height="50" src="../src/logo-dominos.png">
+<img align="center" height="50" src="../src/logo-pepery.png">
+<img align="center" height="50" src="../src/logo-sunset.png">
+<img align="center" height="50" src="../src/logo-gut.png">
+<img align="center" height="50" src="../src/logo-tracy.png">
 </div>
 
 
@@ -44,7 +44,7 @@ Trabalhamos com tecnologias de fornecedores líderes de mercado:
 ### **Database**
 
 <div>
-<img align="center" alt="Icon-SqlServer" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img align="center" alt="Icon-SqlServer" height="80" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
 <img align="center" alt="Icon-MySql" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Icon-PostgreSql" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
 <img align="center" alt="Icon-BigQuery" height="60" src="https://cdn.holistics.io/landing/databases/bigquery.png">
