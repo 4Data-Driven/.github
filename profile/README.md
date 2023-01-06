@@ -1,33 +1,22 @@
-# 4Data Driven <img align="right" alt="Business Intelligence" height="70" src="./src/4dd_logotipo.png">
+<img align="center" src="../src/4ddLinkedinBannerBlack.png">
 
-Soluções customizadas de **_Bi_**, **_Data Analytics_** e **_Data Science_** para Marketing e Vendas
-
-- 4datadriven@4datadriven.com.br
-- São Paulo
-- (11) 99878-1185
-
-## **O que fazemos**
+## **O que fazemos** <img align="center" alt="Data Analytics" height="20" src="../src/icons/DataAnalytics.png"> <img align="center" alt="Data Science" height="20" src="../src/icons/DataScience.png"> <img align="center" alt="Business Intelligence" height="20" src="../src/icons/BusinessIntelligence.png">
 
 Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligence_**, **_Data Analytics_** e **_Data Science_** para as áreas de Marketing, Consumer & Market Insights (CMI), Social Media, Paid Media, SAC 2.0, Trade Marketing e Vendas.
 
-<div>
-<img align="center" alt="Business Intelligence" height="50" src="./src/BusinessIntelligence.png">
-<img align="center" alt="Data Analytics" height="50" src="./src/DataAnalytics.png">
-<img align="center" alt="Data Science" height="50" src="./src/DataScience.png">
-</div>
-
 ## **Clientes**
+
 <div>
-<img align="center" height="50" src="./src/logo-99.png">
-<img align="center" height="50" src="./src/logo-99-food.png">
-<img align="center" height="50" src="./src/logo-dominos.png">
-<img align="center" height="50" src="./src/logo-pepery.png">
-<img align="center" height="50" src="./src/logo-sunset.png">
-<img align="center" height="50" src="./src/logo-gut.png">
-<img align="center" height="50" src="./src/logo-tracy.png">
+<img align="center" height="35" src="../src/logo/logo-99.png">
+<img  align='center' height="15" src="https://unico.io/wp-content/themes/theme_unico/img/logo/unico-color.svg" >
+<img align="center" height="25" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png">
+<img align="center" height="35" src="../src/logo/logo-dominos.png">
+<img align="center" height="35" src="https://images.squarespace-cdn.com/content/v1/5bcfacf6d7819e480670fa10/1615395663788-VCA19NA4N2DNFBJXTOSI/logo_betc.png?format=1500w">
+<img align="center" height="40" src="../src/logo/logo-sunset.png">
+<img align="center" height="40" src="../src/logo/logo-gut.png">
+<img align="center" height="40" src="../src/logo/logo-tracy.png">
+<img align="center" height="55" src="../src/logo/logo-pepery.png">
 </div>
-
-
 
 ## **Tecnologias**
 
