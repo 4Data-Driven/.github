@@ -7,15 +7,15 @@ Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligenc
 ## **Clientes**
 
 <div>
-<img align="center" height="35" src="../src/logo/logo-99.png">
+<img align="center" height="35" src="./src/logo/logo-99.png">
 <img  align='center' height="15" src="https://unico.io/wp-content/themes/theme_unico/img/logo/unico-color.svg" >
 <img align="center" height="25" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png">
-<img align="center" height="35" src="../src/logo/logo-dominos.png">
+<img align="center" height="35" src="./src/logo/logo-dominos.png">
 <img align="center" height="35" src="https://images.squarespace-cdn.com/content/v1/5bcfacf6d7819e480670fa10/1615395663788-VCA19NA4N2DNFBJXTOSI/logo_betc.png?format=1500w">
-<img align="center" height="40" src="../src/logo/logo-sunset.png">
-<img align="center" height="40" src="../src/logo/logo-gut.png">
-<img align="center" height="40" src="../src/logo/logo-tracy.png">
-<img align="center" height="55" src="../src/logo/logo-pepery.png">
+<img align="center" height="40" src="./src/logo/logo-sunset.png">
+<img align="center" height="40" src="./src/logo/logo-gut.png">
+<img align="center" height="40" src="./src/logo/logo-tracy.png">
+<img align="center" height="55" src="./src/logo/logo-pepery.png">
 </div>
 
 ## **Tecnologias**
