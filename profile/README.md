@@ -1,21 +1,23 @@
-<img align="center" src="./src/4ddLinkedinBannerBlack.png">
+<img align="center" src="../src/4ddLinkedinBannerBlack.png">
 
-## **O que fazemos** <img align="center" alt="Data Analytics" height="20" src="./src/icons/DataAnalytics.png"> <img align="center" alt="Data Science" height="20" src="./src/icons/DataScience.png"> <img align="center" alt="Business Intelligence" height="20" src="./src/icons/BusinessIntelligence.png">
+## **O que fazemos** <img align="center" alt="Data Analytics" height="20" src="../src/icons/DataAnalytics.png"> <img align="center" alt="Data Science" height="20" src="../src/icons/DataScience.png"> <img align="center" alt="Business Intelligence" height="20" src="../src/icons/BusinessIntelligence.png">
 
 Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligence_**, **_Data Analytics_** e **_Data Science_** para as áreas de Marketing, Consumer & Market Insights (CMI), Social Media, Paid Media, SAC 2.0, Trade Marketing e Vendas.
 
 ## **Clientes**
 
 <div>
-<img align="center" height="35" src="./src/logo/logo-99.png">
-<img  align='center' height="15" src="https://unico.io/wp-content/themes/theme_unico/img/logo/unico-color.svg" >
-<img align="center" height="25" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png">
-<img align="center" height="35" src="./src/logo/logo-dominos.png">
-<img align="center" height="35" src="https://images.squarespace-cdn.com/content/v1/5bcfacf6d7819e480670fa10/1615395663788-VCA19NA4N2DNFBJXTOSI/logo_betc.png?format=1500w">
-<img align="center" height="40" src="./src/logo/logo-sunset.png">
-<img align="center" height="40" src="./src/logo/logo-gut.png">
-<img align="center" height="40" src="./src/logo/logo-tracy.png">
-<img align="center" height="55" src="./src/logo/logo-pepery.png">
+<img align="center" height="25" src="../src/logo/logo-spotify.png">
+<img align="center" height="35" src="../src/logo/logo-heineken.png">
+<img align="center" height="35" src="../src/logo/logo-99.png">
+<img align="center" height="35" src="../src/logo/logo-itau.png">
+<img align="center" height="35" src="../src/logo/logo-btec.png">
+<img align="center" height="35" src="../src/logo/logo-dominos.png">
+<img align="center" height="40" src="../src/logo/logo-gut.png">
+<img align="center" height="40" src="../src/logo/logo-sunset.png">
+<img align="center" height="40" src="../src/logo/logo-tracy.png">
+<img align="center" height="55" src="../src/logo/logo-pepery.png">
+<img align='center' height="15" src="../src/logo/logo-unico.png" >
 </div>
 
 ## **Tecnologias**
@@ -37,6 +39,7 @@ Trabalhamos com tecnologias de fornecedores líderes de mercado:
 <img align="center" alt="Icon-MySql" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Icon-PostgreSql" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
 <img align="center" alt="Icon-BigQuery" height="60" src="https://cdn.holistics.io/landing/databases/bigquery.png">
+<img align="center" alt="Icon-MongoDB" height="60" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png">
 </div>
 
 ### **DataViz**
