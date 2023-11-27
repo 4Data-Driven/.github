@@ -1,6 +1,6 @@
 <img align="center" src="src/4ddLinkedinBannerBlack.png">
 
-## **O que fazemos** <img align="center" alt="Data Analytics" height="20" src="../src/icons/DataAnalytics.png"> <img align="center" alt="Data Science" height="20" src="../src/icons/DataScience.png"> <img align="center" alt="Business Intelligence" height="20" src="../src/icons/BusinessIntelligence.png">
+## **O que fazemos** <img align="center" alt="Data Analytics" height="20" src="src/icons/DataAnalytics.png"> <img align="center" alt="Data Science" height="20" src="src/icons/DataScience.png"> <img align="center" alt="Business Intelligence" height="20" src="src/icons/BusinessIntelligence.png">
 
 Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligence_**, **_Data Analytics_** e **_Data Science_** para as áreas de Marketing, Consumer & Market Insights (CMI), Social Media, Paid Media, SAC 2.0, Trade Marketing e Vendas.
 
