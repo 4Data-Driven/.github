@@ -1,4 +1,4 @@
-<img align="center" src="4ddLinkedinBannerBlack.png">
+<img align="center" src="src/4ddLinkedinBannerBlack.png">
 
 ## **O que fazemos** <img align="center" alt="Data Analytics" height="20" src="../src/icons/DataAnalytics.png"> <img align="center" alt="Data Science" height="20" src="../src/icons/DataScience.png"> <img align="center" alt="Business Intelligence" height="20" src="../src/icons/BusinessIntelligence.png">
 
