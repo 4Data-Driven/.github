@@ -7,17 +7,17 @@ Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligenc
 ## **Clientes**
 
 <div>
-<img align="center" height="25" src="../src/logo/logo-spotify.png">
-<img align="center" height="35" src="../src/logo/logo-heineken.png">
-<img align="center" height="35" src="../src/logo/logo-99.png">
-<img align="center" height="35" src="../src/logo/logo-itau.png">
-<img align="center" height="35" src="../src/logo/logo-btec.png">
-<img align="center" height="35" src="../src/logo/logo-dominos.png">
-<img align="center" height="40" src="../src/logo/logo-gut.png">
-<img align="center" height="40" src="../src/logo/logo-sunset.png">
-<img align="center" height="40" src="../src/logo/logo-tracy.png">
-<img align="center" height="55" src="../src/logo/logo-pepery.png">
-<img align='center' height="15" src="../src/logo/logo-unico.png" >
+<img align="center" height="25" src="src/logo/logo-spotify.png">
+<img align="center" height="35" src="src/logo/logo-heineken.png">
+<img align="center" height="35" src="src/logo/logo-99.png">
+<img align="center" height="35" src="src/logo/logo-itau.png">
+<img align="center" height="35" src="src/logo/logo-btec.png">
+<img align="center" height="35" src="src/logo/logo-dominos.png">
+<img align="center" height="40" src="src/logo/logo-gut.png">
+<img align="center" height="40" src="src/logo/logo-sunset.png">
+<img align="center" height="40" src="src/logo/logo-tracy.png">
+<img align="center" height="55" src="src/logo/logo-pepery.png">
+<img align='center' height="15" src="src/logo/logo-unico.png" >
 </div>
 
 ## **Tecnologias**
