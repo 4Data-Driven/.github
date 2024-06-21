@@ -1,23 +1,23 @@
-<img align="center" src="src/4ddLinkedinBannerBlack.png">
+<img align="center" src="../src/4ddLinkedinBannerBlack.png">
 
-## **O que fazemos** <img align="center" alt="Data Analytics" height="20" src="src/icons/DataAnalytics.png"> <img align="center" alt="Data Science" height="20" src="src/icons/DataScience.png"> <img align="center" alt="Business Intelligence" height="20" src="src/icons/BusinessIntelligence.png">
+## **O que fazemos** <img align="center" alt="Data Analytics" height="20" src="../src/icons/DataAnalytics.png"> <img align="center" alt="Data Science" height="20" src="../src/icons/DataScience.png"> <img align="center" alt="Business Intelligence" height="20" src="../src/icons/BusinessIntelligence.png">
 
 Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligence_**, **_Data Analytics_** e **_Data Science_** para as áreas de Marketing, Consumer & Market Insights (CMI), Social Media, Paid Media, SAC 2.0, Trade Marketing e Vendas.
 
 ## **Clientes**
 
 <div>
-<img align="center" height="25" src="src/logo/logo-spotify.png">
-<img align="center" height="35" src="src/logo/logo-heineken.png">
-<img align="center" height="35" src="src/logo/logo-99.png">
-<img align="center" height="35" src="src/logo/logo-itau.png">
-<img align="center" height="35" src="src/logo/logo-btec.png">
-<img align="center" height="35" src="src/logo/logo-dominos.png">
-<img align="center" height="40" src="src/logo/logo-gut.png">
-<img align="center" height="40" src="src/logo/logo-sunset.png">
-<img align="center" height="40" src="src/logo/logo-tracy.png">
-<img align="center" height="55" src="src/logo/logo-pepery.png">
-<img align='center' height="15" src="src/logo/logo-unico.png" >
+<img align="center" height="25" src="../src/logo/logo-spotify.png">
+<img align="center" height="35" src="../src/logo/logo-heineken.png">
+<img align="center" height="35" src="../src/logo/logo-99.png">
+<img align="center" height="35" src="../src/logo/logo-itau.png">
+<img align="center" height="35" src="../src/logo/logo-btec.png">
+<img align="center" height="35" src="../src/logo/logo-dominos.png">
+<img align="center" height="40" src="../src/logo/logo-gut.png">
+<img align="center" height="40" src="../src/logo/logo-sunset.png">
+<img align="center" height="40" src="../src/logo/logo-tracy.png">
+<img align="center" height="55" src="../src/logo/logo-pepery.png">
+<img align='center' height="15" src="../src/logo/logo-unico.png" >
 </div>
 
 ## **Tecnologias**
