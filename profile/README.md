@@ -6,54 +6,57 @@ Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligenc
 
 ## **Clientes**
 
-<div>
-<img align="center" height="25" src="../src/logo/logo-spotify.png">
-<img align="center" height="35" src="../src/logo/logo-heineken.png">
-<img align="center" height="35" src="../src/logo/logo-99.png">
-<img align="center" height="35" src="../src/logo/logo-itau.png">
-<img align="center" height="35" src="../src/logo/logo-btec.png">
-<img align="center" height="35" src="../src/logo/logo-dominos.png">
-<img align="center" height="40" src="../src/logo/logo-gut.png">
-<img align="center" height="40" src="../src/logo/logo-sunset.png">
-<img align="center" height="40" src="../src/logo/logo-tracy.png">
-<img align="center" height="55" src="../src/logo/logo-pepery.png">
-<img align='center' height="15" src="../src/logo/logo-unico.png" >
+<div style="display: flex; gap: 10px; align-items: center">
+    <img align="center" height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/J9KidDzcxQnXeIEijBiWHnRLfsiobflzsVslyhlBfEYFK2nrSO9RyoNkP971WzRFFQ=w240-h480-rw">
+    <img align='center' height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/5TOFGmjMJP1F1o_WUgU7rCk8sbZs8GMhkkFCa6bl7iTUEbjd8WUO1Ql5V5Z6qDgWsQ=w240-h480-rw">
+    <img align='center' height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/ngZqU1lkyADi-L6j9tWtM5mQS8BfpLr-JivKADttCdUAkIWi36VdZIA_SPZf8A-Jfeg=w240-h480-rw">
+    <img align="center" height="60" style="border-radius: 10%;" src="https://images.squarespace-cdn.com/content/v1/5bcfacf6d7819e480670fa10/d4812199-0722-4345-ba38-6ad54c85ded5/BETC-grande.png?format=1500w">
+    <img align="center" height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/HzoaTBJlz6GJGElrbbOL625ImzHD49X9b2MhIqMQCHt91Qb0cs-JG2MQ2TPexitRFged=w240-h480-rw">
+    <img align="center" height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/jiQumI2P-nqaKfIMEhz6V5dCifNZg58j7FhOOgt11Vv6ejR11KJSJsFpdFyAmC5fdW8p=w240-h480-rw">
+    <img align="center" height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/MBJwllSKEcRVuqbyaRVV5JKdix6bFWI80e8HaY6QH6BnFvkgoQ1ADNMad6ttSKqahQ=s94-rw">
+    <img align='center' height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/4juBnswOre2d1_pfe0KxpH4mNXIt2yZOmt8w_BJHCqBoZO5fnrYKcpntzI_33aGkxj4=w240-h480-rw">
+    <img align='center' height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/ZHCg3iFFSgsY13623nXrCs2Uw1cmpSYBLEygWb2ia3HkFXMlAjGubkyMs6Fd8uQSoG0=w240-h480-rw">
+    <img align='center' height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/qAmR2IkN3bUCRdraBkQkyWfR4qRT9z6QBWPd5tOJ6PoRBY0oUcbbW5-4Fpeq0r_-G5o=w240-h480-rw">
+    <img align='center' height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/lsDltR5H3okqZD_vHTNgPdAtziWavr8kVH3o4gTT19eb40b-GOEkb6G9KHktve7fN9c=w240-h480-rw">
+    <img align='center' height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/hBZPIE0XFQsrOEeILLYZaKM_YQlDhLkIMDm5K-VnLhLzxT_sOh8vmnkuXGt_9FvLhJE=w240-h480-rw">
+    <img align="center" height="60" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/nvz-bAP4aoChSpyENnKdNjMDeeRxCifE_VdTA4U-bJeKeZOAlZesFxFJ72yKlCJR2ro=w240-h480-rw">
 </div>
 
 ## **Tecnologias**
 
 Trabalhamos com tecnologias de fornecedores líderes de mercado:
 
-### **Cloud**
+## **Cloud**
 
-<div>
-<img align="top" alt="Icon-Aws" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-<img align="top" alt="Icon-GoogleCloud" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
-<img align="top" alt="Icon-Azure" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"> 
+<div style="display: flex; gap: 10px; align-items: center">
+  <img height="50" style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4">
+  <img height="50" style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4">
+  <img height="50" style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4">
 </div>
 
-### **Database**
 
-<div>
-<img align="center" alt="Icon-SqlServer" height="80" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
-<img align="center" alt="Icon-MySql" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="Icon-PostgreSql" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-<img align="center" alt="Icon-BigQuery" height="60" src="https://cdn.holistics.io/landing/databases/bigquery.png">
-<img align="center" alt="Icon-MongoDB" height="60" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png">
+## **Database**
+
+<div style="display: flex; gap: 10px; align-items: center">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://raw.githubusercontent.com/AwesomeLogos/google-cloud-icons/9fe9b31ddce5804ae4e6cf4d1bda5d5ee5ae6192/docs/images/bigquery.svg">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4">
 </div>
 
-### **DataViz**
+## **DataViz**
 
-<div>
-<img align="center" alt="Icon-PowerBi" height="55" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg">
-<img align="center" alt="Icon-GoogleDataStudio" height="60" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg">
-<img align="center" alt="Icon-Tableau" height="50" src="https://avatars.githubusercontent.com/u/828667?s=200&v=4">
+<div style="display: flex; gap: 10px; align-items: center">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/828667?s=200&v=4">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Desktop.svg">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/36164477?s=200&v=4">
 </div>
 
-### **Analytics/Science**
+## **Analytics & Science**
 
-<div>
-<img align="center" alt="Icon-Python" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Icon-ScikitLearn" height="50" src="https://blog.scikit-learn.org/assets/images/scikit-learn-logo.png">
-<img align="center" alt="Icon-TensorFlow" height="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
+<div style="display: flex; gap: 10px; align-items: center">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4">
+    <img align="center" height="50" style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4">
 </div>
