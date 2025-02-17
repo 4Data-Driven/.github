@@ -10,7 +10,6 @@ Atuamos no desenvolvimento de soluções customizadas de **_Business Intelligenc
     <img align="center" height="50" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/J9KidDzcxQnXeIEijBiWHnRLfsiobflzsVslyhlBfEYFK2nrSO9RyoNkP971WzRFFQ=w240-h480-rw">
     <img align='center' height="50" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/5TOFGmjMJP1F1o_WUgU7rCk8sbZs8GMhkkFCa6bl7iTUEbjd8WUO1Ql5V5Z6qDgWsQ=w240-h480-rw">
     <img align='center' height="50" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/ngZqU1lkyADi-L6j9tWtM5mQS8BfpLr-JivKADttCdUAkIWi36VdZIA_SPZf8A-Jfeg=w240-h480-rw">
-    <img align="center" height="50" style="border-radius: 10%;" src="https://images.squarespace-cdn.com/content/v1/5bcfacf6d7819e480670fa10/d4812199-0722-4345-ba38-6ad54c85ded5/BETC-grande.png?format=1500w">
     <img align="center" height="50" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/HzoaTBJlz6GJGElrbbOL625ImzHD49X9b2MhIqMQCHt91Qb0cs-JG2MQ2TPexitRFged=w240-h480-rw">
     <img align="center" height="50" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/jiQumI2P-nqaKfIMEhz6V5dCifNZg58j7FhOOgt11Vv6ejR11KJSJsFpdFyAmC5fdW8p=w240-h480-rw">
     <img align="center" height="50" style="border-radius: 10%;" src="https://play-lh.googleusercontent.com/MBJwllSKEcRVuqbyaRVV5JKdix6bFWI80e8HaY6QH6BnFvkgoQ1ADNMad6ttSKqahQ=s94-rw">
